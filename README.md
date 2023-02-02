@@ -96,5 +96,19 @@ Awesome List resultado de pesquisas para encontrar bons recursos e ajudar os des
 
 ### 18 - Calendarios
 
-
-
+### 19 - Livros
+- [From the Garden to the City: The Redeeming and Corrupting Power of Technology](https://www.amazon.com/Garden-City-Redeeming-Corrupting-Technology/dp/0825426685)
+- [God, Technology, and the Christian Life](https://www.amazon.com/dp/1433578271)
+- [Shaping a Digital World](https://www.amazon.com/Shaping-Digital-World-Computer-Technology-ebook/dp/B00EA3KGOS/ref=cm_cr_arp_d_product_top?ie=UTF8)
+- [Beyond the Modern Age: An Archaeology of Contemporary Culture](https://www.amazon.com/Beyond-Modern-Age-Archaeology-Contemporary/dp/0830851518/ref=sr_1_1?keywords=Beyond+the+Modern+Age+Goudzwaard+and+Bartholomew&qid=1573411675&sr=8-1)
+- [Cybertheology: Thinking Christianity in the Era of the Internet](https://www.amazon.com/Cybertheology-Thinking-Christianity-Era-Internet-ebook/dp/B00QS3R5W4/ref=sr_1_1?keywords=Cybertheology+Spandaro&qid=1573411704&sr=8-1-spell)
+- [God and Gadgets: Following Jesus in a Technological Age](https://www.amazon.com/God-Gadgets-Brad-J-Kallenberg/dp/1498212611/ref=sr_1_1?keywords=%22God+and+Gadgets%22&qid=1573411614&sr=8-1)
+- [iGods](https://www.amazon.com/iGods-Technology-Shapes-Spiritual-Social/dp/1587433443/ref=sr_1_1?keywords=iGods+Detweiler&qid=1573411536&sr=8-1)
+- [Images and Idols](https://www.amazon.com/Images-Idols-Creativity-Christian-Reclaiming/dp/0802418481/ref=sr_1_fkmr0_1?keywords=Images+and+Idols+humble+Beest%3F&qid=1573411588&sr=8-1-fkmr0)
+- [Modern Technology and the Human Future](https://www.amazon.com/Modern-Technology-Human-Future-Christian/dp/0830852204/ref=sr_1_1?keywords=Modern+Technology+and+the+Human+Future+Gay&qid=1573411524&sr=8-1)
+- [Networked Theology](https://www.amazon.com/Networked-Theology-Negotiating-Digital-Engaging/dp/0801049148/ref=sr_1_1?keywords=Networked+Theology+Campbell+and+Garner&qid=1573411546&sr=8-1)
+- [Selfies: Searching for the Image of God in a Digital Age](https://www.amazon.com/Selfies-Searching-Image-God-Digital/dp/1587433982/ref=sr_1_fkmr0_1?keywords=If+Self+Self+Selfies+Detweiler&qid=1573411752&sr=8-1-fkmr0)
+- [Technopoly: The Surrender of Culture to Technology](https://www.amazon.com/Technopoly-Surrender-Technology-Neil-Postman/dp/0679745408/ref=sr_1_1?keywords=technopoly+neil+postman&qid=1573411688&sr=8-1)
+- [The Next Story: Faith, Friends, Family, and the Digital World](https://www.amazon.com/Next-Story-Friends-Family-Digital/dp/031051505X/ref=sr_1_1?keywords=The+Next+Story+Tim+Challies&qid=1573411510&sr=8-1)
+- [The Wired Soul: Finding Spiritual Balance in a Hyperconnected Age](https://www.amazon.com/Wired-Soul-Finding-Spiritual-Hyperconnected/dp/1631465120/ref=sr_1_1?keywords=The+Wired+Soul+McCary+Rhodes&qid=1573411491&sr=8-1)
+- [12 Ways Your Phone is Changing You](https://www.amazon.com/Ways-Your-Phone-Changing-You/dp/1433552434/ref=sr_1_1?keywords=12+Ways+your+phone+is+changing+you+Reinke&qid=1573411570&sr=8-1)
