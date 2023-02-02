@@ -10,11 +10,11 @@ Awesome List resultado de pesquisas para encontrar bons recursos e ajudar os des
 
 ### 1.1 - Canon protestante
 
-  - **https://github.com/scrollmapper/bible_databases**
-  - **https://github.com/godlytalias/Bible-Database**
-  - **https://github.com/bibleforge/BibleForgeDB**
-  - **https://github.com/joeestes/bible-database**
- - **https://github.com/BIBLE-Study/SQLite-Databases**
+  - **https://github.com/scrollmapper/bible_databases** (En)
+  - **https://github.com/godlytalias/Bible-Database** (En)
+  - **https://github.com/bibleforge/BibleForgeDB** (En)
+  - **https://github.com/joeestes/bible-database** (En)
+ - **https://github.com/BIBLE-Study/SQLite-Databases** (En)
  - **https://github.com/damarals/biblias**
   - **https://github.com/seupaulao/migracaoDados**
   - **https://github.com/thiagobodruk/biblia**
@@ -24,30 +24,31 @@ Awesome List resultado de pesquisas para encontrar bons recursos e ajudar os des
  - **https://github.com/paulohrpinheiro/textos-biblicos**
  - **https://github.com/GabrielDeveloper/Bible**
  - **https://github.com/paulohrpinheiro/textos-biblicos**
+ - **https://github.com/eudanielhenrique/biblia** (JSON)
 
 ### 1.2 - Livros católicos
-- **https://github.com/aseemsavio/Biblia-Sacra-Vulgata**
-
+ - **https://github.com/aseemsavio/Biblia-Sacra-Vulgata** (En)
+- **https://github.com/aseemsavio/catholic-cli** (En)
 ### 1.3 - Não-canonicos
 
- - **https://github.com/scrollmapper/bible_databases_deuterocanonical**
+ - **https://github.com/scrollmapper/bible_databases_deuterocanonical** (En)
 
 ### 2 - Dicionários
 ### 2.1 - Dicionários bíblicos
 
 ### 3 - NLP / Data Science
-- **https://github.com/BibleNLP/bible-graph**
-- **https://github.com/MasterMedo/bible-relationships**
+- **https://github.com/BibleNLP/bible-graph** (En)
+- **https://github.com/MasterMedo/bible-relationships** (En)
 - **https://github.com/jonathanAmancioSales/Data-Analysis_Bible**
-- **https://github.com/sauchilee/BibleInScience**
-- **https://github.com/nanmat/DataScience_BibleClassification**
+ - **https://github.com/sauchilee/BibleInScience** (En)
+- **https://github.com/nanmat/DataScience_BibleClassification** (En)
 
 ### 4 - Audio / Data Science
 
 ### 5 - Aplicativos / Mobile
- - **https://github.com/Lee182/OpenTorah**
+ - **https://github.com/Lee182/OpenTorah** (En)
  -  **https://github.com/Pdroh/biblia-react-native**
- - **https://github.com/photokandyStudios/gbible**
+ - **https://github.com/photokandyStudios/gbible** (En)
 
 ### 6 - Aplicativos / Web
  - **https://github.com/blivre/BibliaLivre**
@@ -55,25 +56,36 @@ Awesome List resultado de pesquisas para encontrar bons recursos e ajudar os des
  - **https://github.com/HelioGiroto/Biblia-ARC**
  - **https://github.com/ahsbjunior/biblia-para-igrejas**
  - **https://github.com/jacsontiede85/biblia_sagrada**
- - **https://github.com/joshpetit/biblehub**
- - **https://github.com/EzerIT/BibleOL**
- - **https://github.com/eliranwong/OpenGNT**
- - **https://github.com/ricklove/GreekBibleApp**
+  - **https://github.com/joshpetit/biblehub** (En)
+ - **https://github.com/EzerIT/BibleOL** (En)
+ - **https://github.com/eliranwong/OpenGNT** (En)
+ - **https://github.com/ricklove/GreekBibleApp** (En)
+ - **https://github.com/caleb531/faith-dashboard** (En)
+ - **https://github.com/quelea-projection/Quelea** (En)
+ - **https://github.com/laisiangtho/scripture** (En)
+ - **https://github.com/verbo-vivo/site**
+ - **https://github.com/bibliasagrada/bibliasagrada.github.io**
+ - **https://github.com/carlosbatistadev/Bible-Reading-Plan**
+ - **https://github.com/gabeleonn/charis**
+ - **https://github.com/ritallopes/bibquiz**
 ### 7 - Softwares
-  - **https://github.com/sonnylazuardi/bibleify-desktop**
+   - **https://github.com/sonnylazuardi/bibleify-desktop** (En)
   - **https://github.com/eliranwong/DartBible-Flutter** (também mobile)
+  - **https://github.com/cadimos/livepraise**
 
 ### 8 - APIs
- - **https://github.com/R4wm/baus**
- - **https://github.com/andimalfresh/backendBible-**
+   - **https://github.com/R4wm/baus** (En)
+ - **https://github.com/andimalfresh/backendBible-** (En)
  - **https://github.com/rakeshtembhurne/bible-translations**
- - **https://github.com/andersonlribeiro/bibleapiextractor**
+ - **https://github.com/andersonlribeiro/bibleapiextractor** (En)
  - **https://github.com/iramarfalcao/BibliaSagradaEHarpaCrista**
  - **https://github.com/marciovsena/abibliadigital**
+ - **https://github.com/MarcioAndrade/Biblia**
+
 
 ### 9 - Linha de Comando
 - **https://github.com/DomBito/bliv**
-
+ - **https://github.com/RaynardGerraldo/bible_verse-cli** (En)
 ### 10 - Hardware
 
 ### 11 - Biblias online
