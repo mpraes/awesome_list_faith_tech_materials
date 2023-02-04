@@ -4,7 +4,7 @@ Awesome List resultado de pesquisas para encontrar bons recursos e ajudar os des
 
 ### __Em desenvolvimento...__
 
-# ## Categorias de Conteúdos
+## Categorias de Conteúdos
 
 ### 1 - Bíblia em bases de dados
 
@@ -68,6 +68,7 @@ Awesome List resultado de pesquisas para encontrar bons recursos e ajudar os des
  - **https://github.com/carlosbatistadev/Bible-Reading-Plan**
  - **https://github.com/gabeleonn/charis**
  - **https://github.com/ritallopes/bibquiz**
+
 ### 7 - Softwares
    - **https://github.com/sonnylazuardi/bibleify-desktop** (En)
   - **https://github.com/eliranwong/DartBible-Flutter** (também mobile)
@@ -81,7 +82,29 @@ Awesome List resultado de pesquisas para encontrar bons recursos e ajudar os des
  - **https://github.com/iramarfalcao/BibliaSagradaEHarpaCrista**
  - **https://github.com/marciovsena/abibliadigital**
  - **https://github.com/MarcioAndrade/Biblia**
-
+ - **https://github.com/rribeiro1/bible-edge**
+ - **https://github.com/isaque-vieira2019/api-biblia**
+ - **https://github.com/programadriano/api_biblia_sagrada**
+ - **https://github.com/SamuelPietro/BibliaApi**
+ - **https://github.com/JlnCosta82/api-biblia**
+ - **https://github.com/GustavoGuke/app-biblia.io**
+ - **https://github.com/Vittor-Emanoel/Biblia**
+ - **https://github.com/anavrin-tech/api-biblia**
+ - **https://github.com/gabeleonn/biblia-interlinear-api**
+ - **https://github.com/ThiagoMaia1/api-biblia**
+ - **https://github.com/EduardoGape/API-BIBLIA**
+ - **https://github.com/marcosggoncalves/api-biblia**
+ - **https://github.com/mateusandrade98/biblia-api**
+ - **https://github.com/Lucbm99/Biblia-API**
+ - **https://github.com/juniorapollo/groovy-api-biblia**
+ - **https://github.com/thiago-luno/api-rest-biblia**
+ - **https://github.com/Rafael260/APIBiblia**
+ - **https://github.com/joaojustodev/AppBiblia**
+ - **https://github.com/AbisaiSan/Biblia-Online**
+ - **https://github.com/saviocunha2/Buscador-de-versos-da-biblia-alimentado-por-API**
+ - **https://github.com/gabrielsouzasys/server_nodejs_consume_bible_api**
+ - **https://github.com/claudineibjr/Quiz-Biblia_backend**
+ 
 
 ### 9 - Linha de Comando
 - **https://github.com/DomBito/bliv**
@@ -109,7 +132,7 @@ Awesome List resultado de pesquisas para encontrar bons recursos e ajudar os des
 ### 18 - Calendarios
 
 ### 19 - Livros
-- [From the Garden to the City: The Redeeming and Corrupting Power of Technology](https://www.amazon.com/Garden-City-Redeeming-Corrupting-Technology/dp/0825426685)
+- From the Garden to the City: The Redeeming and Corrupting Power of Technology](https://www.amazon.com/Garden-City-Redeeming-Corrupting-Technology/dp/0825426685)
 - [God, Technology, and the Christian Life](https://www.amazon.com/dp/1433578271)
 - [Shaping a Digital World](https://www.amazon.com/Shaping-Digital-World-Computer-Technology-ebook/dp/B00EA3KGOS/ref=cm_cr_arp_d_product_top?ie=UTF8)
 - [Beyond the Modern Age: An Archaeology of Contemporary Culture](https://www.amazon.com/Beyond-Modern-Age-Archaeology-Contemporary/dp/0830851518/ref=sr_1_1?keywords=Beyond+the+Modern+Age+Goudzwaard+and+Bartholomew&qid=1573411675&sr=8-1)
