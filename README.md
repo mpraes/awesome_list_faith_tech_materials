@@ -49,6 +49,7 @@ Awesome List resultado de pesquisas para encontrar bons recursos e ajudar os des
  - **https://github.com/Lee182/OpenTorah** (En)
  -  **https://github.com/Pdroh/biblia-react-native**
  - **https://github.com/photokandyStudios/gbible** (En)
+ - **https://github.com/koldaev/ptbible**
 
 ### 6 - Aplicativos / Web
  - **https://github.com/blivre/BibliaLivre**
@@ -68,11 +69,22 @@ Awesome List resultado de pesquisas para encontrar bons recursos e ajudar os des
  - **https://github.com/carlosbatistadev/Bible-Reading-Plan**
  - **https://github.com/gabeleonn/charis**
  - **https://github.com/ritallopes/bibquiz**
+ - **https://github.com/BibleJS/bible-portuguese**
+ - **https://github.com/paulolieuthier/BibleFox**
+ - **https://github.com/BibleCommentaries/110000-Portuguese-Bible-Sermons-Parallel-Commentaries** (En-Pt)
+
+
 
 ### 7 - Softwares
    - **https://github.com/sonnylazuardi/bibleify-desktop** (En)
   - **https://github.com/eliranwong/DartBible-Flutter** (também mobile)
   - **https://github.com/cadimos/livepraise**
+   - **https://github.com/lucas-lopes/pab**
+  - **https://github.com/ursbira/Biblia**
+  - **https://github.com/Werner1201/PyBible**
+  - **https://github.com/ricardvsilva/BibliaSagrada**
+
+
 
 ### 8 - APIs
    - **https://github.com/R4wm/baus** (En)
@@ -104,7 +116,7 @@ Awesome List resultado de pesquisas para encontrar bons recursos e ajudar os des
  - **https://github.com/saviocunha2/Buscador-de-versos-da-biblia-alimentado-por-API**
  - **https://github.com/gabrielsouzasys/server_nodejs_consume_bible_api**
  - **https://github.com/claudineibjr/Quiz-Biblia_backend**
- 
+ - **https://github.com/rfmarves/Obsidian_Gospel_Library** (Es-Pt)
 
 ### 9 - Linha de Comando
 - **https://github.com/DomBito/bliv**
@@ -126,7 +138,11 @@ Awesome List resultado de pesquisas para encontrar bons recursos e ajudar os des
 ### 15 - Investimentos e VC
 
 ### 16 - Estudos biblicos
-- **https://www.cristaosnaciencia.org.br/os-algoritmos-vao-nos-controlar/**
+- **https://www.cristaosnaciencia.org.br/category/textos-e-artigos/tecnologia/**
+- **https://voltemosaoevangelho.com/blog/?s=tecnologia**
+- **https://ministeriofiel.com.br/?s=tecnologia**
+- **https://coalizaopeloevangelho.org/?s=tecnologia**
+- **https://www.ultimato.com.br/busca-conteudo/tecnologia**
 ### 17 - Geografia biblica
 
 ### 18 - Calendarios
