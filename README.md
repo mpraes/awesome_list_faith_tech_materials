@@ -1,39 +1,70 @@
 # Awesome List de materiais e recursos para Comunidade Brasileira
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]([https://github.com/sindresorhus/awesome](https://faithtech.com/sao-paulo/))   
 Awesome List resultado de pesquisas para encontrar bons recursos e ajudar os desenvolvedores brasileiros.
 
 ### __Em desenvolvimento...__
 
 ## Categorias de Conteúdos
+<details>
+<summary>Clique para expandir</summary>
+	
+1. [Bíblia em bases de dados](#1-Biblia-em-bases-de-dados)  
+  1. [Canon protestante](#1.1-Canon-protestante)
+  2. [Livros católicos](#1.1-Canon-protestante)
+  3. [Não-canonicos](#1.1-Canon-protestante)
+2. [Dicionários](#1.1 - Canon-protestante)  
+	1. [Dicionários bíblicos](#Entry-Point)
+	2. [Tutorials](#Tutorials)    
+3. [Data Science](#1.1 - Canon-protestante)  
+  1. [NLP](#Entry-Point)
+  2. [Audio](#Entry-Point)
+4. [Apps](#1.1 - Canon-protestante)  
+  1. [Mobile](#Entry-Point)
+  2. [Web](#Entry-Point)
+5. [Softwares](#1.1 - Canon-protestante)  
+6. [Hardware](#1.1 - Canon-protestante)  
+7. [APIs](#1.1 - Canon-protestante)    
+8. [Linha de comando](#1.1 - Canon-protestante)      
+9. [Bíblias online](#1.1 - Canon-protestante)      
+10. [Estações de rádio](#1.1 - Canon-protestante)      
+11. [Conferências cristãs sobre tecnologia](#1.1 - Canon-protestante)      
+12. [Grupos cristãos](#1.1 - Canon-protestante)      
+13. [VC e Investimentos](#1.1 - Canon-protestante)      
+14. [Estudos biblicos](#1.1 - Canon-protestante)      
+15. [Mapas e Geografia biblica](#1.1 - Canon-protestante)      
+16. [Calendários](#1.1 - Canon-protestante)      
+16. [Livros](#1.1 - Canon-protestante)      
+16. [Games](#1.1 - Canon-protestante)      
+</details>
 
-### 1 - Bíblia em bases de dados
-
+## 1 - Biblia em bases de dados
 ### 1.1 - Canon protestante
 
-  - **https://github.com/scrollmapper/bible_databases** (En)
-  - **https://github.com/godlytalias/Bible-Database** (En)
-  - **https://github.com/bibleforge/BibleForgeDB** (En)
-  - **https://github.com/joeestes/bible-database** (En)
- - **https://github.com/BIBLE-Study/SQLite-Databases** (En)
- - **https://github.com/damarals/biblias**
-  - **https://github.com/seupaulao/migracaoDados**
-  - **https://github.com/thiagobodruk/biblia**
-  - **https://github.com/rribeiro1/bible-edge**
- - **https://github.com/IzaiasLima/Biblia_Livre_Frontend**
- - **https://github.com/JuniorFlorentino/bible_sqlite**
- - **https://github.com/paulohrpinheiro/textos-biblicos**
- - **https://github.com/GabrielDeveloper/Bible**
- - **https://github.com/paulohrpinheiro/textos-biblicos**
- - **https://github.com/eudanielhenrique/biblia** (JSON)
+ - https://github.com/scrollmapper/bible_databases (En)
+ - https://github.com/godlytalias/Bible-Database (En)
+ - https://github.com/bibleforge/BibleForgeDB (En)
+ - https://github.com/joeestes/bible-database (En)
+ - https://github.com/BIBLE-Study/SQLite-Databases (En)
+ - https://github.com/damarals/biblias
+ - https://github.com/seupaulao/migracaoDados
+ - https://github.com/thiagobodruk/biblia
+ - https://github.com/rribeiro1/bible-edge
+ - https://github.com/IzaiasLima/Biblia_Livre_Frontend
+ - https://github.com/JuniorFlorentino/bible_sqlite
+ - https://github.com/paulohrpinheiro/textos-biblicos
+ - https://github.com/GabrielDeveloper/Bible
+ - https://github.com/paulohrpinheiro/textos-biblicos
+ - https://github.com/eudanielhenrique/biblia
 
 ### 1.2 - Livros católicos
- - **https://github.com/aseemsavio/Biblia-Sacra-Vulgata** (En)
-- **https://github.com/aseemsavio/catholic-cli** (En)
+- https://github.com/aseemsavio/Biblia-Sacra-Vulgata (En)
+- https://github.com/aseemsavio/catholic-cli (En)
+
 ### 1.3 - Não-canonicos
+- https://github.com/scrollmapper/bible_databases_deuterocanonical (En)
 
- - **https://github.com/scrollmapper/bible_databases_deuterocanonical** (En)
-
-### 2 - Dicionários
+## 2 - Dicionários
 ### 2.1 - Dicionários bíblicos
 
 ### 3 - NLP / Data Science
